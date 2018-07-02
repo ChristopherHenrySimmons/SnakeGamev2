@@ -97,9 +97,9 @@ namespace Snake
                 {
                     Brush snakeColour;
                     if (i == 0)
-                        snakeColour = Brushes.LawnGreen;     //Draw head
+                        snakeColour = Brushes.Orange;     //Draw head
                     else
-                        snakeColour = Brushes.Yellow;    //Rest of body
+                        snakeColour = Brushes.Peru;    //Rest of body
 
                     //Draw snake
                     canvas.FillEllipse(snakeColour,
@@ -109,7 +109,7 @@ namespace Snake
 
 
                     //Draw Food
-                    canvas.FillEllipse(Brushes.Red,
+                    canvas.FillEllipse(Brushes.Firebrick,
                         new Rectangle(food.X * Settings.Width,
                              food.Y * Settings.Height, Settings.Width, Settings.Height));
 

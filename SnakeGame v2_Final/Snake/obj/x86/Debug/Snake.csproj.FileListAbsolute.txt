@@ -31,3 +31,12 @@ H:\2017_S1\Programing C#\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.csproj.Gen
 H:\2017_S1\Programing C#\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
 H:\2017_S1\Programing C#\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.exe
 H:\2017_S1\Programing C#\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\bin\Debug\Snake.exe
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\bin\Debug\Snake.pdb
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.exe
+C:\Users\dude\Documents\Projects\SnakeGamev2\SnakeGame v2_Final\Snake\obj\x86\Debug\Snake.pdb
